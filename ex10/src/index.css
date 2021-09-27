@@ -1,0 +1,31 @@
+.google-image,
+.form-search { 
+    margin:0 auto; max-width: 700px; text-align: center;
+  }
+.buttons {
+    margin:0 auto; max-width: 700px; text-align: center;
+}
+.nav_links {
+    display: inline;
+    list-style-type: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+    padding: 5px;
+}
+.footer-left {
+    display: inline;
+    list-style-type: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+    padding: 5px;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+#footer-left {
+    float: left;
+}
+#footer-right {
+    float: right;
+}
