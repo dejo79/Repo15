@@ -5,6 +5,10 @@
 .buttons {
     margin:0 auto; max-width: 700px; text-align: center;
 }
+#sign_in {
+    display: inline;
+    list-style-type: none;
+}
 .nav_links {
     display: inline;
     list-style-type: none;
